@@ -1,0 +1,10 @@
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\bin\Debug\Oyun_NesneHareketi.exe.config
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\bin\Debug\Oyun_NesneHareketi.exe
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\bin\Debug\Oyun_NesneHareketi.pdb
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.csproj.AssemblyReference.cache
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.Form1.resources
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.Properties.Resources.resources
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.csproj.GenerateResource.cache
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.csproj.CoreCompileInputs.cache
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.exe
+C:\Users\Semiha\Desktop\Oyun_NesneHareketi\Oyun_NesneHareketi\obj\Debug\Oyun_NesneHareketi.pdb

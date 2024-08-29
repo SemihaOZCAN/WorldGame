@@ -1,0 +1,8 @@
+World Game 
+***********************
+Bu uygulama, C# programlama dilinde oluşturulmuş basit bir oyunudur. Oyunda bir nesne (örneğin, bir PictureBox) ekranda belirli bir yol izleyerek hareket eder. Hareket şu şekilde gerçekleşir:
+Yukarı Hareket: Nesne, yukarı doğru hareket eder.
+Sağa Hareket: Nesne, ekranın sağ tarafına doğru hareket eder.
+Aşağı Hareket: Nesne, aşağı doğru hareket eder.
+Sola Hareket: Nesne, ekranın sol tarafına doğru hareket eder.
+Bu dört hareket, bir kare veya dikdörtgen şeklinde döngüsel olarak tekrarlanır. Zamanlayıcılar (Timer) bu hareketleri kontrol eder ve belirli bir yönde hareket tamamlandığında bir sonraki zamanlayıcı devreye girer. Bu basit oyun mekaniği, nesnenin ekran üzerinde düzenli bir şekilde hareket etmesini sağlar.
